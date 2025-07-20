@@ -1,7 +1,5 @@
 # ArcaDev
-It's me.
-Founder of EterCube,
-*And crazy developper*
+Founder of EterCube, computer enthusiast, and crazy developper 💻
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArcadeProgram/ArcadeProgram/output/github-contribution-grid-snake-dark.svg" />
